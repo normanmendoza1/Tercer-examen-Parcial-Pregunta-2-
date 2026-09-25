@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.5.0
+  flutter pub get
